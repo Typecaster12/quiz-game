@@ -17,7 +17,7 @@ const data = [
         answers: [
             { answer: " J.A.R.V.I.S.", isCorrect: true },
             { answer: "F.R.I.D.A.Y.", isCorrect: false },
-            { answer: " H.E.L.E.N.", isCorrect: true },
+            { answer: " H.E.L.E.N.", isCorrect: false },
             { answer: " S.I.R.I.", isCorrect: false },
         ],
     },
